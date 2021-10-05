@@ -1,0 +1,42 @@
+.course{
+    background-color: darkgrey;
+    border-radius: 10px;
+    padding-bottom: 5px;
+    
+}
+
+.course img{
+    width: 100%;
+}
+
+.course button{
+    padding:5px 10px;
+    border: none;
+    border-radius: 10px;
+    font-size: medium;
+}
+
+.button-field{
+    margin-bottom: 5px;
+}
+
+.button-value{
+    padding: 10px;
+
+}
+
+.read-more a{
+    text-decoration: none;
+    color: darkred;
+    font-size: 16px;
+    background-color: darkturquoise;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.read-more:hover {
+
+    transform: scale(1.2);
+    transition: transform 2s;
+    
+}

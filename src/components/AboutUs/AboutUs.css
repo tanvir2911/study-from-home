@@ -1,0 +1,10 @@
+.about-us{
+    background-size: 30%;
+    background-image: url("http://net4uservices.com/images/avatar/Internet-1.jpg");
+    background-color: #ffffff;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: center;
+    position: relative;
+}

@@ -1,0 +1,17 @@
+.home{
+
+    background-image: url("../../images/home.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: rgba(248, 247, 216, 0.7);
+    min-height: 500px;
+    margin-top:0px;
+}
+
+.servicesInsideHome{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap:30px;
+    margin:0px 20px
+}

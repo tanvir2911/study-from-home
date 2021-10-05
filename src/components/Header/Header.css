@@ -1,0 +1,14 @@
+nav{
+    background-color: coral;
+    /* height: 50px; */
+    padding: 25px;
+}
+
+nav .navlink {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin-right: 20px;
+    font-size: 24px;
+    font-weight: 600;
+}
+

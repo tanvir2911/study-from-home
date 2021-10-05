@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "1 to 1 Support",
+        "description": "We provide one to one support to the students every day",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy_hSPpbLPTe4vlX0qmbPXiKLJLHko2FQ_CbxOoUmrLBCcOpWZYnBoFciR77wJX6be-yE&usqp=CAU"
+    },
+    {
+        "id": 2,
+        "title": "Special preparation for job interviews",
+        "description": "We provide special sessions for students for their job interviews",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtY_ggKeilo6E211O7ottv6q5hVnouKfRXxiFD57j_JQmoWxTPYHKozFpoKHEZNbC_bww&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "title": "Connect and get help from millions of other learners",
+        "description": "You will be connected to our community of millions of learners",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLGZwvTQCkFLjxpC9B1XvsS1wexHcjcrjrLg&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "title": "International Job Placement",
+        "description": "After completion of each course students will get our job placement support across the world",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2m42e8NlNfxfAKRCUz2nUsrS8HeX1Gu9TS8xkEpAe_p3whJBYQpcdDxHCvi3kWgJNJ_w&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "title": "Advanced Learning Group",
+        "description": "Studens who get 95% numbers will be connected to our prestigious group of 95%",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwfH0_NBc4oxPoAAiCy_p2CXUXfzotNmyoSzX5Rl-wywNI_u0r617EkDxhqPXW-XMOVg&usqp=CAU"
+    },
+    {
+        "id": 6,
+        "title": "Daily Morning Live Shows",
+        "description": "Morning Live shows to keep you motivated and get your doubt cleared",
+        "img": "https://i1.wp.com/tryliveclass.com/wp-content/uploads/2020/03/2657230.jpg?fit=2000%2C1200&ssl=1"
+    }
+]

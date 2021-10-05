@@ -1,0 +1,9 @@
+.not-found{
+    background-image: url("../../images/404.png");
+    background-size: 50%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: rgba(248, 247, 216, 0.7);
+    min-height: 500px;
+    margin-top:0px;
+}
